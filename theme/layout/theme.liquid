@@ -6,6 +6,10 @@
   lang="{{ request.locale.iso_code }}"
 >
   <head>
+
+{% # Custom theme fonts. %}
+{{ 'bastian-fonts.css' | asset_url | stylesheet_tag }}
+
     {%- if settings.favicon != blank -%}
       <link
         rel="icon"
