@@ -98,6 +98,10 @@
       "foreground": "#E2E4E8",
       "color1": "#9CA0A8",
       "color2": "#454952"
+      "surface_sunken": "#1B1D21",
+      "surface_raised": "#232529",
+      "surface_deep": "#0B0C0D",
+      "accent_ember": "#C97A3E"
     },
     "type_heading_font_NOTE": "Placeholder — set to Newsreader's real Shopify font-library id if available (search 'Newsreader' in Theme Editor's font picker), otherwise keep 'heading' and load bastian-fonts.css as Custom CSS instead."
   },
