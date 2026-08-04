@@ -1,0 +1,6 @@
+/* Google Fonts substitutes — Horizon ships Inter as the default body/heading font.
+   We keep Inter for body/UI (matches Horizon's "inter_n4/n5/n7" roles) and pair it with
+   Newsreader, a serif, for display headings to give the brand a more considered, premium
+   editorial voice. Flag: both are Google Fonts stand-ins, not bespoke type — swap in a
+   licensed typeface if the brand commissions one. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap');
